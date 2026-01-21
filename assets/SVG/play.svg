@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- White Background -->
+  <circle cx="50" cy="50" r="50" fill="#fff"/>
+
+  <!-- Rounded Circle Border -->
+  <circle cx="50" cy="50" r="46"
+          fill="none"
+          stroke="#000"
+          stroke-width="4"/>
+
+  <!-- Play Icon -->
+  <polygon points="40,28 40,72 68,50" fill="#000"/>
+</svg>
